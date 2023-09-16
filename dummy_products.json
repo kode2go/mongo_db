@@ -1,0 +1,4501 @@
+[
+    {
+        "product_name": "dream",
+        "category": "Clothing",
+        "price": 809.64,
+        "description": "Tonight anything will long career.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "owensdavid",
+                "rating": 1,
+                "comment": "Debate evening visit rather standard. Free certain community everybody. Visit nothing bank cause few."
+            },
+            {
+                "username": "george72",
+                "rating": 3,
+                "comment": "Threat peace who season. On management character policy work agree."
+            },
+            {
+                "username": "wscott",
+                "rating": 4,
+                "comment": "Five left major dark view. Suddenly really stuff activity energy."
+            },
+            {
+                "username": "hosborne",
+                "rating": 1,
+                "comment": "Impact whose resource certainly unit left experience. Network current marriage."
+            }
+        ],
+        "stock": {
+            "available": 21,
+            "location": "Warehouse B",
+            "last_restocked": "2022-06-09T07:56:37"
+        },
+        "tags": [
+            "back",
+            "out",
+            "I",
+            "call",
+            "out"
+        ],
+        "shipping_info": {
+            "weight": "1.11 kg",
+            "dimensions": "20.03 x 25.42 x 9.15 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "because",
+        "category": "Sports",
+        "price": 805.23,
+        "description": "Save contain with institution various region.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "13.3-inch Retina",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "maria09",
+                "rating": 2,
+                "comment": "Him reduce mission conference. Soldier national usually police. Somebody shake weight always create large."
+            }
+        ],
+        "stock": {
+            "available": 76,
+            "location": "Warehouse B",
+            "last_restocked": "2022-08-04T04:55:08"
+        },
+        "tags": [
+            "parent",
+            "inside",
+            "security",
+            "employee"
+        ],
+        "shipping_info": {
+            "weight": "3.1 kg",
+            "dimensions": "12.29 x 22.55 x 4.68 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "particularly",
+        "category": "Clothing",
+        "price": 352.63,
+        "description": "Continue step evening mother.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "16GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "whitetheresa",
+                "rating": 4,
+                "comment": "There better entire child. Spend all write ahead."
+            }
+        ],
+        "stock": {
+            "available": 92,
+            "location": "Warehouse B",
+            "last_restocked": "2023-01-30T04:44:27"
+        },
+        "tags": [
+            "ball",
+            "production",
+            "country",
+            "series"
+        ],
+        "shipping_info": {
+            "weight": "0.17 kg",
+            "dimensions": "7.96 x 29.42 x 6.94 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "sign",
+        "category": "Kitchen",
+        "price": 287.47,
+        "description": "Market position million money organization skill general.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "8GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "kimberlygarcia",
+                "rating": 3,
+                "comment": "Focus water history safe real political garden. College executive early oil yet. Free fact open spring note. Play peace manage structure interesting discover position."
+            },
+            {
+                "username": "lgriffith",
+                "rating": 4,
+                "comment": "Start capital relationship performance and. Interesting employee wall decide trip book tree."
+            },
+            {
+                "username": "jessica81",
+                "rating": 2,
+                "comment": "Fall none inside after. Yes method particularly reach idea. Old player design head water exactly."
+            },
+            {
+                "username": "lfernandez",
+                "rating": 1,
+                "comment": "Police director matter. Short through open room situation."
+            },
+            {
+                "username": "yporter",
+                "rating": 3,
+                "comment": "Pull night create identify who begin. Fish far factor. President which which interest structure."
+            }
+        ],
+        "stock": {
+            "available": 98,
+            "location": "Warehouse C",
+            "last_restocked": "2021-02-24T05:33:43"
+        },
+        "tags": [
+            "bar",
+            "cut",
+            "until",
+            "box",
+            "impact"
+        ],
+        "shipping_info": {
+            "weight": "9.05 kg",
+            "dimensions": "23.33 x 28.45 x 9.44 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "practice",
+        "category": "Electronics",
+        "price": 762.74,
+        "description": "Professional child enter who.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "angela02",
+                "rating": 1,
+                "comment": "Organization training over move face. Tend should focus cup service event. Street customer goal sister example compare."
+            },
+            {
+                "username": "thomassanchez",
+                "rating": 5,
+                "comment": "Miss standard town song difficult Democrat. Form or open really course site coach. Mouth ask company represent everybody."
+            },
+            {
+                "username": "angela40",
+                "rating": 3,
+                "comment": "So not science Mrs man. Meeting sing may present upon. Contain total station should range. Activity despite treatment production one."
+            },
+            {
+                "username": "lrichards",
+                "rating": 4,
+                "comment": "Where here pull activity cost plan. Herself really baby short."
+            },
+            {
+                "username": "bradleytheresa",
+                "rating": 1,
+                "comment": "Might important gun parent beat. Citizen remain knowledge direction green responsibility memory."
+            }
+        ],
+        "stock": {
+            "available": 6,
+            "location": "Warehouse C",
+            "last_restocked": "2020-11-14T20:37:43"
+        },
+        "tags": [
+            "drop",
+            "like",
+            "sign"
+        ],
+        "shipping_info": {
+            "weight": "6.09 kg",
+            "dimensions": "11.15 x 21.6 x 5.09 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "relationship",
+        "category": "Sports",
+        "price": 372.1,
+        "description": "Pick financial forget high ever.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "16GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "ftaylor",
+                "rating": 5,
+                "comment": "Everyone skill international property guess institution. Total get she Congress start."
+            },
+            {
+                "username": "johnsonmiranda",
+                "rating": 3,
+                "comment": "Feel piece above difference move. Economic program stay month."
+            },
+            {
+                "username": "robertjackson",
+                "rating": 4,
+                "comment": "Take picture improve Mrs likely artist painting."
+            },
+            {
+                "username": "eowens",
+                "rating": 5,
+                "comment": "Record past around although indeed. Claim always let return. Certainly sort two adult."
+            }
+        ],
+        "stock": {
+            "available": 7,
+            "location": "Warehouse C",
+            "last_restocked": "2020-08-04T20:42:12"
+        },
+        "tags": [
+            "ahead",
+            "yard"
+        ],
+        "shipping_info": {
+            "weight": "1.16 kg",
+            "dimensions": "27.01 x 13.4 x 1.05 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "feel",
+        "category": "Clothing",
+        "price": 852.95,
+        "description": "Will wait during bag hand sure can option.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "16GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "alexanderpeterson",
+                "rating": 2,
+                "comment": "School somebody notice. Game into however."
+            }
+        ],
+        "stock": {
+            "available": 25,
+            "location": "Warehouse A",
+            "last_restocked": "2023-02-01T10:27:20"
+        },
+        "tags": [
+            "site",
+            "their",
+            "sound",
+            "it"
+        ],
+        "shipping_info": {
+            "weight": "4.62 kg",
+            "dimensions": "23.26 x 28.12 x 3.48 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "north",
+        "category": "Electronics",
+        "price": 68.0,
+        "description": "Outside fine member strategy point professional human.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "16GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "13.3-inch Retina",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "eward",
+                "rating": 3,
+                "comment": "Partner every long white computer simple. There value debate company. Early religious performance common hundred without."
+            },
+            {
+                "username": "eperez",
+                "rating": 1,
+                "comment": "Color side family strong leader develop finish direction."
+            },
+            {
+                "username": "charles97",
+                "rating": 1,
+                "comment": "Represent ability expect painting structure. Rise chance every among film make."
+            },
+            {
+                "username": "latoya36",
+                "rating": 4,
+                "comment": "Clearly also most bank usually over somebody. Beyond about give deal personal."
+            }
+        ],
+        "stock": {
+            "available": 77,
+            "location": "Warehouse C",
+            "last_restocked": "2023-05-20T11:53:17"
+        },
+        "tags": [
+            "lawyer",
+            "almost",
+            "authority"
+        ],
+        "shipping_info": {
+            "weight": "6.47 kg",
+            "dimensions": "26.82 x 11.06 x 6.14 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "special",
+        "category": "Electronics",
+        "price": 615.44,
+        "description": "Nature firm site glass magazine read.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "nallen",
+                "rating": 5,
+                "comment": "Free safe figure voice kitchen within. According firm evening source should sell few. Race edge indicate itself anyone. Official career baby wife best I."
+            },
+            {
+                "username": "moodymonica",
+                "rating": 1,
+                "comment": "Which out there feel. Music later bank child most young. Do feeling hour process speech."
+            },
+            {
+                "username": "phoffman",
+                "rating": 4,
+                "comment": "Space capital voice still several pay star adult."
+            }
+        ],
+        "stock": {
+            "available": 89,
+            "location": "Warehouse A",
+            "last_restocked": "2021-09-02T13:46:44"
+        },
+        "tags": [
+            "style"
+        ],
+        "shipping_info": {
+            "weight": "3.06 kg",
+            "dimensions": "21.06 x 13.46 x 4.54 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "nice",
+        "category": "Clothing",
+        "price": 736.39,
+        "description": "Goal any she great short international.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "13.3-inch Retina",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "lindsay00",
+                "rating": 2,
+                "comment": "So part would value become blue war. Film near face."
+            },
+            {
+                "username": "dhammond",
+                "rating": 2,
+                "comment": "Owner subject no believe enjoy onto design. Produce draw economy ok rule key party the. Season gun so message research fine impact."
+            },
+            {
+                "username": "mcclainbradley",
+                "rating": 3,
+                "comment": "Old have field. Last remember total effect east western make. This develop attack face."
+            }
+        ],
+        "stock": {
+            "available": 37,
+            "location": "Warehouse A",
+            "last_restocked": "2022-11-18T12:37:10"
+        },
+        "tags": [
+            "laugh",
+            "general",
+            "house",
+            "for",
+            "risk"
+        ],
+        "shipping_info": {
+            "weight": "9.98 kg",
+            "dimensions": "22.04 x 25.71 x 7.95 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "least",
+        "category": "Clothing",
+        "price": 133.72,
+        "description": "Dog administration food management region.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "27-inch 4K",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "gutierrezjon",
+                "rating": 5,
+                "comment": "Could central Republican keep newspaper study. Kid question wish citizen describe much."
+            },
+            {
+                "username": "charles59",
+                "rating": 1,
+                "comment": "Road business off. Offer tree nor eat could bad meeting."
+            }
+        ],
+        "stock": {
+            "available": 62,
+            "location": "Warehouse A",
+            "last_restocked": "2021-09-11T06:16:59"
+        },
+        "tags": [
+            "fire",
+            "American",
+            "like"
+        ],
+        "shipping_info": {
+            "weight": "0.76 kg",
+            "dimensions": "22.66 x 18.14 x 8.74 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "wife",
+        "category": "Kitchen",
+        "price": 575.99,
+        "description": "Avoid crime instead news can majority how information.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "henry21",
+                "rating": 3,
+                "comment": "Too region people office. Training car keep kitchen eye. Television huge you kitchen foreign identify character."
+            }
+        ],
+        "stock": {
+            "available": 32,
+            "location": "Warehouse A",
+            "last_restocked": "2021-07-25T15:08:33"
+        },
+        "tags": [
+            "police",
+            "official"
+        ],
+        "shipping_info": {
+            "weight": "0.87 kg",
+            "dimensions": "12.83 x 27.88 x 7.18 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "technology",
+        "category": "Kitchen",
+        "price": 501.49,
+        "description": "Movie challenge coach ability decade campaign.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "16GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "gregg95",
+                "rating": 2,
+                "comment": "Any military daughter recently always. Laugh magazine think teach half. Major perform yard action."
+            },
+            {
+                "username": "eatonjacqueline",
+                "rating": 4,
+                "comment": "Individual half and sister. Nearly current understand break."
+            },
+            {
+                "username": "kfletcher",
+                "rating": 5,
+                "comment": "Follow million issue child hard watch heart program. Teacher change table. Attack age heavy us enter."
+            },
+            {
+                "username": "christinathomas",
+                "rating": 1,
+                "comment": "Put can pattern suddenly. Television event science product fund. Raise able while. Stage that size perform while enough letter."
+            }
+        ],
+        "stock": {
+            "available": 26,
+            "location": "Warehouse A",
+            "last_restocked": "2022-02-19T13:21:28"
+        },
+        "tags": [
+            "meeting",
+            "speak"
+        ],
+        "shipping_info": {
+            "weight": "7.43 kg",
+            "dimensions": "19.31 x 19.3 x 1.08 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "water",
+        "category": "Kitchen",
+        "price": 773.86,
+        "description": "Benefit continue recognize network.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "alawrence",
+                "rating": 1,
+                "comment": "Tell whose ready agency physical mind. Similar car rock. Politics story only while."
+            },
+            {
+                "username": "jennifer67",
+                "rating": 3,
+                "comment": "Care news avoid beautiful manager my movement. Class cover chair inside pay reduce less."
+            },
+            {
+                "username": "mkhan",
+                "rating": 5,
+                "comment": "Hundred smile between per long. Particularly local investment population president."
+            },
+            {
+                "username": "cschroeder",
+                "rating": 3,
+                "comment": "Window bed lead result hot. While type behind gas ten. Quite give talk entire management movie about. Dinner moment environmental decade."
+            }
+        ],
+        "stock": {
+            "available": 34,
+            "location": "Warehouse A",
+            "last_restocked": "2023-04-29T08:43:26"
+        },
+        "tags": [
+            "myself",
+            "ready",
+            "television",
+            "discover",
+            "mission"
+        ],
+        "shipping_info": {
+            "weight": "5.11 kg",
+            "dimensions": "12.69 x 23.25 x 3.13 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "that",
+        "category": "Sports",
+        "price": 458.79,
+        "description": "Military evidence camera.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "rogerselizabeth",
+                "rating": 5,
+                "comment": "Card always affect control decade might whole."
+            },
+            {
+                "username": "tvasquez",
+                "rating": 4,
+                "comment": "Girl imagine position budget family nothing PM doctor. Contain behind break light onto both. Beyond rest laugh feel Mr occur third."
+            },
+            {
+                "username": "john30",
+                "rating": 2,
+                "comment": "Late fill wear safe concern politics hand."
+            }
+        ],
+        "stock": {
+            "available": 15,
+            "location": "Warehouse C",
+            "last_restocked": "2022-08-30T19:27:19"
+        },
+        "tags": [
+            "why",
+            "account",
+            "approach",
+            "some",
+            "why"
+        ],
+        "shipping_info": {
+            "weight": "8.92 kg",
+            "dimensions": "21.42 x 26.11 x 2.93 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "partner",
+        "category": "Electronics",
+        "price": 512.95,
+        "description": "Small second building former.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "16GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "eatonkelli",
+                "rating": 1,
+                "comment": "Production include company fight protect American. None gun tend at. Say involve itself group."
+            },
+            {
+                "username": "smithbrandon",
+                "rating": 2,
+                "comment": "Southern news scene reality campaign. Decision offer issue. Least notice growth foreign. Item nor floor consumer."
+            },
+            {
+                "username": "morrisonjennifer",
+                "rating": 1,
+                "comment": "Perhaps air plant represent society step. Sign gun deal least debate material despite."
+            }
+        ],
+        "stock": {
+            "available": 12,
+            "location": "Warehouse B",
+            "last_restocked": "2023-03-19T23:13:58"
+        },
+        "tags": [
+            "toward",
+            "near"
+        ],
+        "shipping_info": {
+            "weight": "5.28 kg",
+            "dimensions": "15.97 x 27.67 x 7.78 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "side",
+        "category": "Sports",
+        "price": 297.57,
+        "description": "Practice last loss often finish sing.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "8GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "warcher",
+                "rating": 1,
+                "comment": "White push call treatment discussion service. Type agency write several investment carry. Girl top growth our relate stage lay. Party professional often because page friend."
+            },
+            {
+                "username": "ashleyperez",
+                "rating": 3,
+                "comment": "Represent project final politics big industry director staff. Many yet they fine paper tonight."
+            }
+        ],
+        "stock": {
+            "available": 62,
+            "location": "Warehouse A",
+            "last_restocked": "2022-06-18T20:22:48"
+        },
+        "tags": [
+            "less"
+        ],
+        "shipping_info": {
+            "weight": "3.96 kg",
+            "dimensions": "13.82 x 9.53 x 1.02 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "leg",
+        "category": "Electronics",
+        "price": 710.22,
+        "description": "Area mean top thank sister.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "ryan99",
+                "rating": 4,
+                "comment": "Push clearly world water various. City down beyond approach notice staff. Resource forward able right situation official."
+            },
+            {
+                "username": "sandraromero",
+                "rating": 5,
+                "comment": "Drug staff industry itself arm shake listen. Movie cup region too serious Republican."
+            },
+            {
+                "username": "xgarcia",
+                "rating": 1,
+                "comment": "Let top relate but why. Color medical lose vote with."
+            },
+            {
+                "username": "llee",
+                "rating": 2,
+                "comment": "Dog tonight and purpose human summer teach. Weight third black wind."
+            },
+            {
+                "username": "jose34",
+                "rating": 1,
+                "comment": "Life condition usually baby PM newspaper cost. Total somebody start. Treatment phone agent keep."
+            }
+        ],
+        "stock": {
+            "available": 74,
+            "location": "Warehouse A",
+            "last_restocked": "2020-05-20T21:47:07"
+        },
+        "tags": [
+            "resource",
+            "use",
+            "effect",
+            "begin"
+        ],
+        "shipping_info": {
+            "weight": "2.16 kg",
+            "dimensions": "18.61 x 27.55 x 3.84 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "her",
+        "category": "Electronics",
+        "price": 62.99,
+        "description": "Bar deep five toward listen.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "maryfuller",
+                "rating": 2,
+                "comment": "Worker worker adult read fund tax want unit. Month water program around cover between. Media sit citizen recently."
+            },
+            {
+                "username": "arellanomarc",
+                "rating": 5,
+                "comment": "Single significant parent me ever space language. Coach until pay state official. Next between population cultural."
+            }
+        ],
+        "stock": {
+            "available": 80,
+            "location": "Warehouse B",
+            "last_restocked": "2023-03-10T16:14:48"
+        },
+        "tags": [
+            "data",
+            "citizen",
+            "budget",
+            "hard"
+        ],
+        "shipping_info": {
+            "weight": "0.67 kg",
+            "dimensions": "23.6 x 13.49 x 6.91 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "floor",
+        "category": "Sports",
+        "price": 318.6,
+        "description": "Hand yard show customer.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "christinawilliams",
+                "rating": 2,
+                "comment": "Tough month try others."
+            },
+            {
+                "username": "hernandezkathryn",
+                "rating": 5,
+                "comment": "General able region successful world marriage say one. Tree watch argue feeling sure standard in."
+            },
+            {
+                "username": "gfischer",
+                "rating": 3,
+                "comment": "Sort avoid my between image glass walk attention. Happy hair media method anything."
+            }
+        ],
+        "stock": {
+            "available": 0,
+            "location": "Warehouse A",
+            "last_restocked": "2022-11-09T12:14:11"
+        },
+        "tags": [
+            "certain",
+            "buy"
+        ],
+        "shipping_info": {
+            "weight": "4.38 kg",
+            "dimensions": "11.75 x 27.11 x 9.39 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "Congress",
+        "category": "Clothing",
+        "price": 113.31,
+        "description": "Mother reflect two court player available full.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "16GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "annasmith",
+                "rating": 4,
+                "comment": "Big national no why food for. White other page study television be white. Later resource grow take pull order."
+            }
+        ],
+        "stock": {
+            "available": 87,
+            "location": "Warehouse B",
+            "last_restocked": "2021-09-07T00:53:55"
+        },
+        "tags": [
+            "business",
+            "toward",
+            "million",
+            "big"
+        ],
+        "shipping_info": {
+            "weight": "3.58 kg",
+            "dimensions": "5.57 x 17.39 x 7.05 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "thus",
+        "category": "Kitchen",
+        "price": 643.68,
+        "description": "Drop plant sell trouble garden theory style.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "8GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "john56",
+                "rating": 3,
+                "comment": "Stand democratic church man. Knowledge indicate company set. Determine strong manager may box."
+            },
+            {
+                "username": "hpowers",
+                "rating": 5,
+                "comment": "Able glass one yourself. Social develop others you word shake away establish. Son blood image less. Country year staff defense final open."
+            },
+            {
+                "username": "watsonsophia",
+                "rating": 4,
+                "comment": "Although contain minute early wind Congress. Base born west interesting matter once save."
+            }
+        ],
+        "stock": {
+            "available": 92,
+            "location": "Warehouse A",
+            "last_restocked": "2023-04-27T23:19:11"
+        },
+        "tags": [
+            "last",
+            "media",
+            "what"
+        ],
+        "shipping_info": {
+            "weight": "1.96 kg",
+            "dimensions": "23.64 x 18.0 x 6.97 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "stay",
+        "category": "Clothing",
+        "price": 883.42,
+        "description": "Avoid than long per newspaper society.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "8GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "george91",
+                "rating": 4,
+                "comment": "Such benefit us station word. Begin money chair wrong girl option risk. Time list become toward."
+            }
+        ],
+        "stock": {
+            "available": 6,
+            "location": "Warehouse C",
+            "last_restocked": "2021-01-28T23:03:33"
+        },
+        "tags": [
+            "hold",
+            "their",
+            "training"
+        ],
+        "shipping_info": {
+            "weight": "9.77 kg",
+            "dimensions": "14.79 x 25.2 x 8.26 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "Mrs",
+        "category": "Clothing",
+        "price": 134.41,
+        "description": "Place available energy body so majority lot.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "16GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "27-inch 4K",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "johnsonjonathan",
+                "rating": 1,
+                "comment": "Bank political size would road tax. Either time attack accept choice."
+            },
+            {
+                "username": "maureenkim",
+                "rating": 5,
+                "comment": "Around data try enjoy writer city trouble. American small soon tell."
+            },
+            {
+                "username": "kristin72",
+                "rating": 4,
+                "comment": "Respond left trial son know. Middle policy development laugh strategy. Back personal station that Congress Congress mean."
+            }
+        ],
+        "stock": {
+            "available": 91,
+            "location": "Warehouse C",
+            "last_restocked": "2020-07-22T18:48:40"
+        },
+        "tags": [
+            "girl",
+            "level",
+            "just"
+        ],
+        "shipping_info": {
+            "weight": "4.58 kg",
+            "dimensions": "17.25 x 28.31 x 4.46 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "safe",
+        "category": "Electronics",
+        "price": 118.2,
+        "description": "Us group probably region.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "theresaknight",
+                "rating": 3,
+                "comment": "Positive assume subject see much student. Education single term project popular difference. System million or manage although support. Pretty during less quality."
+            },
+            {
+                "username": "laurenshaw",
+                "rating": 4,
+                "comment": "Turn lead I send manager. Baby position kid camera road degree about author."
+            },
+            {
+                "username": "carrolldylan",
+                "rating": 3,
+                "comment": "Mrs draw drug prevent sign. Sister actually my short the know. Story ahead cup service spend catch. Feel common ask interesting character office quickly factor."
+            },
+            {
+                "username": "aaronmoore",
+                "rating": 5,
+                "comment": "Trouble near time break write administration. Claim hold result ahead affect face."
+            },
+            {
+                "username": "franklineric",
+                "rating": 3,
+                "comment": "Particular value happy wear born star. Forget like night policy structure recognize prepare."
+            }
+        ],
+        "stock": {
+            "available": 38,
+            "location": "Warehouse A",
+            "last_restocked": "2020-07-18T15:22:31"
+        },
+        "tags": [
+            "page",
+            "well",
+            "apply"
+        ],
+        "shipping_info": {
+            "weight": "8.38 kg",
+            "dimensions": "28.15 x 18.95 x 7.62 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "wish",
+        "category": "Clothing",
+        "price": 798.51,
+        "description": "Throughout room significant dream yourself.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "16GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "lewisbrandon",
+                "rating": 5,
+                "comment": "Job back play particularly line. Not guess well concern. These spend company material."
+            },
+            {
+                "username": "dhowell",
+                "rating": 4,
+                "comment": "Director positive top them present parent action. Head surface speak."
+            }
+        ],
+        "stock": {
+            "available": 33,
+            "location": "Warehouse A",
+            "last_restocked": "2021-03-05T08:35:17"
+        },
+        "tags": [
+            "region",
+            "hotel",
+            "from",
+            "person",
+            "boy"
+        ],
+        "shipping_info": {
+            "weight": "3.06 kg",
+            "dimensions": "15.45 x 12.15 x 8.59 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "could",
+        "category": "Electronics",
+        "price": 429.05,
+        "description": "At myself step me skill physical subject.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "16GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "darrellmoore",
+                "rating": 2,
+                "comment": "Lay pull those skin institution reach discover."
+            },
+            {
+                "username": "pamela30",
+                "rating": 3,
+                "comment": "Fight difference reach behavior girl. Care structure provide none voice huge. College director rise."
+            }
+        ],
+        "stock": {
+            "available": 43,
+            "location": "Warehouse A",
+            "last_restocked": "2020-10-05T16:36:44"
+        },
+        "tags": [
+            "teach",
+            "plan"
+        ],
+        "shipping_info": {
+            "weight": "7.56 kg",
+            "dimensions": "10.78 x 12.63 x 3.55 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "Mrs",
+        "category": "Kitchen",
+        "price": 123.11,
+        "description": "Inside land wife agree policy.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "mreyes",
+                "rating": 3,
+                "comment": "Against class east lawyer against thank dog. Family ten eight without."
+            },
+            {
+                "username": "davidestrada",
+                "rating": 1,
+                "comment": "Public you perform participant. Adult mother store crime music."
+            },
+            {
+                "username": "cathy40",
+                "rating": 4,
+                "comment": "If financial upon worry represent usually. Send political play street. Modern always civil wonder evening table. Animal similar long account item nation."
+            }
+        ],
+        "stock": {
+            "available": 67,
+            "location": "Warehouse B",
+            "last_restocked": "2022-09-02T23:27:00"
+        },
+        "tags": [
+            "executive",
+            "office"
+        ],
+        "shipping_info": {
+            "weight": "0.36 kg",
+            "dimensions": "13.31 x 8.32 x 8.12 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "player",
+        "category": "Kitchen",
+        "price": 222.21,
+        "description": "Health thank leave.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "8GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "oowens",
+                "rating": 3,
+                "comment": "Until range room see decision art economic woman. Success college poor."
+            }
+        ],
+        "stock": {
+            "available": 36,
+            "location": "Warehouse B",
+            "last_restocked": "2020-07-08T09:09:42"
+        },
+        "tags": [
+            "image",
+            "high",
+            "officer"
+        ],
+        "shipping_info": {
+            "weight": "6.88 kg",
+            "dimensions": "6.55 x 25.89 x 8.63 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "floor",
+        "category": "Clothing",
+        "price": 660.98,
+        "description": "Age could art radio key entire watch.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "13.3-inch Retina",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "njackson",
+                "rating": 5,
+                "comment": "Term age central feel land for. Money still word them you language. Resource more tonight. Six article food deal newspaper."
+            },
+            {
+                "username": "cnelson",
+                "rating": 1,
+                "comment": "During enough sort clear. Health serve never ahead usually."
+            }
+        ],
+        "stock": {
+            "available": 87,
+            "location": "Warehouse B",
+            "last_restocked": "2022-03-03T03:20:17"
+        },
+        "tags": [
+            "center"
+        ],
+        "shipping_info": {
+            "weight": "5.49 kg",
+            "dimensions": "7.78 x 16.35 x 3.05 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "character",
+        "category": "Sports",
+        "price": 963.95,
+        "description": "Analysis hope field go.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "8GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "christine53",
+                "rating": 4,
+                "comment": "International minute accept list manage break."
+            },
+            {
+                "username": "cortezdonald",
+                "rating": 2,
+                "comment": "Official significant receive. Rich another writer certainly either everybody everything. Strategy free able there sister. Road ago order some trip."
+            },
+            {
+                "username": "vtaylor",
+                "rating": 5,
+                "comment": "Letter explain easy hospital modern take option. View control too local off prepare. Machine else relate."
+            },
+            {
+                "username": "leahhall",
+                "rating": 4,
+                "comment": "Whole take away control child drive investment. Many their get man do approach fear. Whose few build and use."
+            }
+        ],
+        "stock": {
+            "available": 20,
+            "location": "Warehouse C",
+            "last_restocked": "2022-12-08T11:30:08"
+        },
+        "tags": [
+            "south"
+        ],
+        "shipping_info": {
+            "weight": "7.06 kg",
+            "dimensions": "26.6 x 15.69 x 2.68 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "here",
+        "category": "Clothing",
+        "price": 849.71,
+        "description": "Light which treatment senior.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "8GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "chad81",
+                "rating": 2,
+                "comment": "Audience not ready own arm tax everybody. Environmental film goal will become."
+            },
+            {
+                "username": "fcurry",
+                "rating": 4,
+                "comment": "Environmental us board letter be yet traditional. Point response away cause experience easy skill friend."
+            },
+            {
+                "username": "leonkenneth",
+                "rating": 1,
+                "comment": "Difficult evidence laugh decision toward cost. Gas office attorney word. Sign record quite few education administration practice. During affect just worry treatment."
+            },
+            {
+                "username": "dchoi",
+                "rating": 4,
+                "comment": "Her feel involve create college."
+            },
+            {
+                "username": "wilsonnicholas",
+                "rating": 1,
+                "comment": "Financial plant own along always. Thank culture company begin that perform lawyer police. Seven point probably too throw group air. Within camera would chair claim."
+            }
+        ],
+        "stock": {
+            "available": 36,
+            "location": "Warehouse B",
+            "last_restocked": "2020-11-23T06:03:42"
+        },
+        "tags": [
+            "citizen",
+            "very",
+            "hard",
+            "most"
+        ],
+        "shipping_info": {
+            "weight": "7.03 kg",
+            "dimensions": "7.89 x 26.5 x 8.17 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "year",
+        "category": "Electronics",
+        "price": 963.71,
+        "description": "Our behind establish list manage.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "27-inch 4K",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "andrew20",
+                "rating": 2,
+                "comment": "Cold research although value actually. Enter around wall process actually whom. Check ten have relationship game increase. Partner eat film collection account modern."
+            },
+            {
+                "username": "carrolljennifer",
+                "rating": 1,
+                "comment": "Information practice voice. Stop garden popular environment magazine rock man factor."
+            },
+            {
+                "username": "marymiller",
+                "rating": 2,
+                "comment": "Rate management although maybe manager. Great paper garden occur view. Lose necessary performance beat but. Policy risk large window on computer house."
+            }
+        ],
+        "stock": {
+            "available": 56,
+            "location": "Warehouse A",
+            "last_restocked": "2023-08-12T14:21:58"
+        },
+        "tags": [
+            "about",
+            "out"
+        ],
+        "shipping_info": {
+            "weight": "9.81 kg",
+            "dimensions": "6.99 x 9.9 x 4.49 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "accept",
+        "category": "Electronics",
+        "price": 102.1,
+        "description": "Country successful much leave by crime name four.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "16GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "vstark",
+                "rating": 1,
+                "comment": "Staff building example do feeling wait provide. Second product myself travel."
+            },
+            {
+                "username": "traciward",
+                "rating": 3,
+                "comment": "Else energy which soon region size Mr admit. Program catch off western together song degree statement."
+            },
+            {
+                "username": "holly47",
+                "rating": 3,
+                "comment": "Notice professor various again. Method room state take human have. Four every mention stay."
+            },
+            {
+                "username": "ybonilla",
+                "rating": 1,
+                "comment": "Site piece different happen. Least place soon skin card past wait that."
+            },
+            {
+                "username": "michaelflowers",
+                "rating": 1,
+                "comment": "Force environmental other question open yeah by. Factor research result necessary. Cause standard mother size."
+            }
+        ],
+        "stock": {
+            "available": 31,
+            "location": "Warehouse C",
+            "last_restocked": "2020-03-01T13:49:06"
+        },
+        "tags": [
+            "Congress",
+            "benefit",
+            "medical",
+            "father"
+        ],
+        "shipping_info": {
+            "weight": "9.26 kg",
+            "dimensions": "21.53 x 8.32 x 9.5 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "international",
+        "category": "Clothing",
+        "price": 655.01,
+        "description": "Return occur material tend night open.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "beckersean",
+                "rating": 4,
+                "comment": "Leader state candidate fall structure. These method a body style."
+            },
+            {
+                "username": "lmcdonald",
+                "rating": 2,
+                "comment": "Source stock range western better certainly. Step budget prove also tough. Major project laugh."
+            }
+        ],
+        "stock": {
+            "available": 100,
+            "location": "Warehouse C",
+            "last_restocked": "2022-12-02T21:57:14"
+        },
+        "tags": [
+            "right",
+            "technology",
+            "several"
+        ],
+        "shipping_info": {
+            "weight": "9.22 kg",
+            "dimensions": "20.68 x 20.94 x 4.64 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "wait",
+        "category": "Electronics",
+        "price": 872.73,
+        "description": "Hear author morning sing.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "8GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "13.3-inch Retina",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "christopheranderson",
+                "rating": 3,
+                "comment": "Dog provide goal together son hospital."
+            },
+            {
+                "username": "brookschristopher",
+                "rating": 5,
+                "comment": "Bag job approach information blood. Must federal statement individual animal true."
+            }
+        ],
+        "stock": {
+            "available": 41,
+            "location": "Warehouse A",
+            "last_restocked": "2022-12-24T11:41:56"
+        },
+        "tags": [
+            "force",
+            "expect",
+            "senior",
+            "heavy",
+            "head"
+        ],
+        "shipping_info": {
+            "weight": "3.44 kg",
+            "dimensions": "6.27 x 11.86 x 9.34 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "new",
+        "category": "Electronics",
+        "price": 604.78,
+        "description": "Film relate mind anyone report half.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "john69",
+                "rating": 4,
+                "comment": "Herself teacher young."
+            },
+            {
+                "username": "omorris",
+                "rating": 5,
+                "comment": "Must know local collection spring family field. Him size who long."
+            }
+        ],
+        "stock": {
+            "available": 67,
+            "location": "Warehouse B",
+            "last_restocked": "2022-03-27T06:18:52"
+        },
+        "tags": [
+            "social",
+            "painting"
+        ],
+        "shipping_info": {
+            "weight": "6.31 kg",
+            "dimensions": "7.11 x 8.12 x 7.74 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "sound",
+        "category": "Kitchen",
+        "price": 953.81,
+        "description": "Mean finally from.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "8GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "stephaniefox",
+                "rating": 2,
+                "comment": "Agent analysis question wonder drive. Operation camera fund piece list. Long leader student cover."
+            },
+            {
+                "username": "laurie68",
+                "rating": 2,
+                "comment": "Election she space real."
+            },
+            {
+                "username": "cruzkeith",
+                "rating": 2,
+                "comment": "Respond factor improve voice production those. Site material realize food item son if."
+            },
+            {
+                "username": "thomasreynolds",
+                "rating": 4,
+                "comment": "Condition hair long north well address. Everything over result. Plant knowledge home simply apply green learn raise."
+            },
+            {
+                "username": "julie59",
+                "rating": 4,
+                "comment": "Without pretty first laugh have. Record state threat position decade. Say ok need drive sign pull ground. Minute line court."
+            }
+        ],
+        "stock": {
+            "available": 33,
+            "location": "Warehouse A",
+            "last_restocked": "2023-04-06T22:26:04"
+        },
+        "tags": [
+            "than",
+            "about",
+            "establish",
+            "model"
+        ],
+        "shipping_info": {
+            "weight": "1.35 kg",
+            "dimensions": "17.19 x 24.1 x 9.85 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "Mr",
+        "category": "Sports",
+        "price": 292.39,
+        "description": "Anything oil style Congress should there.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "16GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "kristytucker",
+                "rating": 3,
+                "comment": "Inside ask decide challenge gun political side. Almost goal maintain charge at market. Professional send bed specific hear firm. Wrong tend somebody year account."
+            },
+            {
+                "username": "wilsonanne",
+                "rating": 2,
+                "comment": "School during teach admit woman author. Detail certainly a."
+            },
+            {
+                "username": "hurstadrian",
+                "rating": 2,
+                "comment": "Interest bag human kid concern. Him citizen front sometimes least many. Skin court charge town."
+            },
+            {
+                "username": "xjackson",
+                "rating": 3,
+                "comment": "Follow under himself city third remain camera. Among up consider."
+            },
+            {
+                "username": "cynthia61",
+                "rating": 4,
+                "comment": "Top ago off democratic throughout director. Account do summer."
+            }
+        ],
+        "stock": {
+            "available": 40,
+            "location": "Warehouse C",
+            "last_restocked": "2023-03-01T04:20:39"
+        },
+        "tags": [
+            "place",
+            "once"
+        ],
+        "shipping_info": {
+            "weight": "0.49 kg",
+            "dimensions": "23.96 x 17.64 x 1.32 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "probably",
+        "category": "Electronics",
+        "price": 344.96,
+        "description": "Interest product stage answer manage need.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "anthonysmith",
+                "rating": 2,
+                "comment": "Within use black those free. Well wrong ask."
+            },
+            {
+                "username": "greese",
+                "rating": 5,
+                "comment": "Employee trip reason anyone husband agree trial. Service pay drop stock try see."
+            }
+        ],
+        "stock": {
+            "available": 55,
+            "location": "Warehouse B",
+            "last_restocked": "2021-03-12T10:54:12"
+        },
+        "tags": [
+            "with",
+            "blood",
+            "send",
+            "task"
+        ],
+        "shipping_info": {
+            "weight": "1.48 kg",
+            "dimensions": "7.75 x 16.67 x 1.74 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "until",
+        "category": "Clothing",
+        "price": 114.36,
+        "description": "However material top summer town rest serious fine.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "16GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "jamie69",
+                "rating": 4,
+                "comment": "Kid during feel at turn. Near audience explain old rock body treatment now. Significant area question information visit media seven."
+            },
+            {
+                "username": "robertwilliams",
+                "rating": 5,
+                "comment": "Early risk ever seem. Level lot wall remember."
+            },
+            {
+                "username": "cthompson",
+                "rating": 2,
+                "comment": "Leg west big understand."
+            },
+            {
+                "username": "tcrawford",
+                "rating": 3,
+                "comment": "Wear mouth watch reduce way cultural. Ever the glass during avoid serious risk. Budget care through after. Least attorney end claim claim."
+            },
+            {
+                "username": "clandry",
+                "rating": 2,
+                "comment": "Son top shake. Large present when degree we read. Throughout Democrat score reality. Take environment interview threat."
+            }
+        ],
+        "stock": {
+            "available": 82,
+            "location": "Warehouse B",
+            "last_restocked": "2022-07-03T20:13:11"
+        },
+        "tags": [
+            "finally",
+            "rock"
+        ],
+        "shipping_info": {
+            "weight": "7.89 kg",
+            "dimensions": "8.53 x 29.33 x 4.04 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "military",
+        "category": "Sports",
+        "price": 939.22,
+        "description": "Spring camera woman anything collection spend exactly.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "8GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "paulflynn",
+                "rating": 1,
+                "comment": "Participant other once voice other. Above factor financial chair ask mind."
+            },
+            {
+                "username": "nicolekennedy",
+                "rating": 5,
+                "comment": "Role fire successful through close. Hand east record also best. Rise strong form ability."
+            },
+            {
+                "username": "xmerritt",
+                "rating": 4,
+                "comment": "Recently recognize reach remember world owner. Thousand I find value table. Scientist book your your senior floor stay."
+            },
+            {
+                "username": "chelsey43",
+                "rating": 1,
+                "comment": "Together action radio personal reflect around southern. Local successful weight who PM consumer industry article."
+            }
+        ],
+        "stock": {
+            "available": 7,
+            "location": "Warehouse A",
+            "last_restocked": "2022-08-09T19:26:12"
+        },
+        "tags": [
+            "will",
+            "language",
+            "oil",
+            "event",
+            "image"
+        ],
+        "shipping_info": {
+            "weight": "6.33 kg",
+            "dimensions": "17.64 x 8.59 x 1.83 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "old",
+        "category": "Electronics",
+        "price": 516.37,
+        "description": "Week some very somebody benefit cost make law.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "jamesjones",
+                "rating": 3,
+                "comment": "Long moment loss suddenly. Check American develop office nation various for."
+            }
+        ],
+        "stock": {
+            "available": 72,
+            "location": "Warehouse A",
+            "last_restocked": "2020-02-27T20:20:51"
+        },
+        "tags": [
+            "record",
+            "recently",
+            "seven",
+            "meet",
+            "order"
+        ],
+        "shipping_info": {
+            "weight": "2.42 kg",
+            "dimensions": "17.83 x 10.08 x 8.56 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "development",
+        "category": "Kitchen",
+        "price": 695.81,
+        "description": "Data something will brother car result answer.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "carteryolanda",
+                "rating": 5,
+                "comment": "Church industry try lot seven fact house. Accept blood final memory role."
+            },
+            {
+                "username": "brianna55",
+                "rating": 2,
+                "comment": "Half low protect husband oil tonight. Simple citizen level source."
+            },
+            {
+                "username": "jay18",
+                "rating": 2,
+                "comment": "Total call ask begin do. These sit back never wall."
+            }
+        ],
+        "stock": {
+            "available": 98,
+            "location": "Warehouse B",
+            "last_restocked": "2020-08-04T00:05:00"
+        },
+        "tags": [
+            "believe",
+            "land",
+            "forget"
+        ],
+        "shipping_info": {
+            "weight": "1.32 kg",
+            "dimensions": "20.78 x 7.15 x 8.33 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "financial",
+        "category": "Electronics",
+        "price": 56.43,
+        "description": "Pass model approach.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "8GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "john81",
+                "rating": 3,
+                "comment": "Billion south remember environment trouble effort least. Culture top personal wait. Food future soon. Interest capital quite partner nor."
+            },
+            {
+                "username": "sanchezdarrell",
+                "rating": 2,
+                "comment": "Others peace hard media. Party finally daughter surface. Or rest billion energy."
+            },
+            {
+                "username": "peterduncan",
+                "rating": 2,
+                "comment": "Republican staff become energy carry off take. Start senior wonder memory pass investment."
+            },
+            {
+                "username": "justinhendrix",
+                "rating": 4,
+                "comment": "Then best eat public model blood. Professor answer develop test. As executive paper we garden term."
+            }
+        ],
+        "stock": {
+            "available": 38,
+            "location": "Warehouse B",
+            "last_restocked": "2021-11-15T02:46:38"
+        },
+        "tags": [
+            "situation",
+            "officer",
+            "imagine",
+            "alone"
+        ],
+        "shipping_info": {
+            "weight": "2.18 kg",
+            "dimensions": "28.96 x 10.72 x 5.34 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "type",
+        "category": "Clothing",
+        "price": 150.74,
+        "description": "Hair chair doctor already far direction.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "8GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "gomezmark",
+                "rating": 4,
+                "comment": "Art discuss leg drive also sell drug. Particularly owner stock church around tend. Since beyond shoulder approach soon mention current feel."
+            }
+        ],
+        "stock": {
+            "available": 45,
+            "location": "Warehouse A",
+            "last_restocked": "2022-05-21T00:28:53"
+        },
+        "tags": [
+            "accept",
+            "attention",
+            "improve",
+            "color"
+        ],
+        "shipping_info": {
+            "weight": "3.74 kg",
+            "dimensions": "28.05 x 23.16 x 5.9 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "chance",
+        "category": "Sports",
+        "price": 517.5,
+        "description": "Land media note.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "ibarrachristopher",
+                "rating": 5,
+                "comment": "Interview improve result sister indicate capital change actually. Mean recent body about history drug."
+            },
+            {
+                "username": "lambertkatie",
+                "rating": 5,
+                "comment": "Side believe happy board whether. Forget case could maybe through threat leave."
+            },
+            {
+                "username": "patrickpetty",
+                "rating": 1,
+                "comment": "Term hard structure language book baby will. Worry seek finish now spend shake."
+            },
+            {
+                "username": "donna04",
+                "rating": 1,
+                "comment": "Prove couple prepare role other. Everyone can several. Direction serve serve green senior grow sure."
+            },
+            {
+                "username": "linkelly",
+                "rating": 1,
+                "comment": "Number thus yes exactly. Nor other majority require course feeling. Process budget end plan game dinner service gun."
+            }
+        ],
+        "stock": {
+            "available": 17,
+            "location": "Warehouse C",
+            "last_restocked": "2021-11-30T00:52:03"
+        },
+        "tags": [
+            "production"
+        ],
+        "shipping_info": {
+            "weight": "5.45 kg",
+            "dimensions": "5.61 x 26.84 x 6.99 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "point",
+        "category": "Sports",
+        "price": 294.82,
+        "description": "Loss writer effort from two.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "andrea49",
+                "rating": 1,
+                "comment": "Gas what create staff hour reflect."
+            },
+            {
+                "username": "ejones",
+                "rating": 4,
+                "comment": "Any consider bank simply economy thing student. Sure agent sing positive despite these four speech."
+            },
+            {
+                "username": "donald46",
+                "rating": 3,
+                "comment": "Sea cold generation hotel magazine discuss chair. Land full would lot they."
+            },
+            {
+                "username": "briancallahan",
+                "rating": 3,
+                "comment": "Coach turn our coach environment member. Site degree carry."
+            },
+            {
+                "username": "kimberlycarey",
+                "rating": 4,
+                "comment": "Your with response sing. Court mind radio adult west newspaper say."
+            }
+        ],
+        "stock": {
+            "available": 40,
+            "location": "Warehouse A",
+            "last_restocked": "2020-07-11T02:54:03"
+        },
+        "tags": [
+            "not",
+            "contain",
+            "stop"
+        ],
+        "shipping_info": {
+            "weight": "4.95 kg",
+            "dimensions": "5.54 x 25.16 x 5.2 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "month",
+        "category": "Kitchen",
+        "price": 537.2,
+        "description": "Maintain ask soldier begin.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "8GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "corteztara",
+                "rating": 2,
+                "comment": "Television focus another very inside example. Pm coach program another opportunity. Because leg rule nation."
+            },
+            {
+                "username": "danielsshelia",
+                "rating": 2,
+                "comment": "Process various player investment pick. Another next agent tonight institution performance same determine."
+            },
+            {
+                "username": "vjennings",
+                "rating": 4,
+                "comment": "Admit in have somebody. Lay as rate condition Congress."
+            }
+        ],
+        "stock": {
+            "available": 41,
+            "location": "Warehouse C",
+            "last_restocked": "2020-04-06T02:15:59"
+        },
+        "tags": [
+            "try",
+            "hold",
+            "race",
+            "PM"
+        ],
+        "shipping_info": {
+            "weight": "6.12 kg",
+            "dimensions": "12.76 x 26.46 x 5.05 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "plant",
+        "category": "Electronics",
+        "price": 258.19,
+        "description": "Truth scientist deal beyond book individual.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "16GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "erichart",
+                "rating": 5,
+                "comment": "Individual number few near skill forget meet. Right read sport nature wind last. War into team this enjoy eye usually."
+            },
+            {
+                "username": "belindaboyle",
+                "rating": 1,
+                "comment": "Agree watch drop. Skin stuff seem visit plant manage."
+            },
+            {
+                "username": "cory42",
+                "rating": 3,
+                "comment": "Mother reflect character talk happy. Congress enjoy agency reason every."
+            }
+        ],
+        "stock": {
+            "available": 59,
+            "location": "Warehouse A",
+            "last_restocked": "2022-03-22T07:46:49"
+        },
+        "tags": [
+            "board",
+            "which"
+        ],
+        "shipping_info": {
+            "weight": "7.08 kg",
+            "dimensions": "16.24 x 28.62 x 9.41 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "section",
+        "category": "Kitchen",
+        "price": 270.91,
+        "description": "Trade sort future scientist election morning.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "13.3-inch Retina",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "afletcher",
+                "rating": 1,
+                "comment": "Operation plan recently. Seek food author thing. Animal like skill rich."
+            },
+            {
+                "username": "kcampbell",
+                "rating": 1,
+                "comment": "Fact forget take chair cold brother best. On pressure reduce young. Push yeah foreign year among."
+            },
+            {
+                "username": "kristina31",
+                "rating": 4,
+                "comment": "Use society surface ever. Stay difference however American policy expect. Need possible help address get item loss."
+            }
+        ],
+        "stock": {
+            "available": 29,
+            "location": "Warehouse C",
+            "last_restocked": "2020-11-16T03:22:52"
+        },
+        "tags": [
+            "themselves",
+            "against",
+            "clearly",
+            "west"
+        ],
+        "shipping_info": {
+            "weight": "6.04 kg",
+            "dimensions": "24.5 x 20.62 x 7.42 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "sort",
+        "category": "Clothing",
+        "price": 604.93,
+        "description": "Seem company open them.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "16GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "kevingomez",
+                "rating": 1,
+                "comment": "Where term talk little relationship. Which walk four my red enough price response."
+            },
+            {
+                "username": "nicole07",
+                "rating": 5,
+                "comment": "Effect suddenly somebody effort run explain along once. Line real name entire manager much certainly. High avoid above should cell green."
+            },
+            {
+                "username": "cynthia27",
+                "rating": 5,
+                "comment": "Bad bad again enter source. Exactly something seem poor suggest effort heavy. Young when manage fill author."
+            },
+            {
+                "username": "samuelmiller",
+                "rating": 1,
+                "comment": "Future prevent control though standard it former industry. Many talk federal theory ready."
+            }
+        ],
+        "stock": {
+            "available": 71,
+            "location": "Warehouse C",
+            "last_restocked": "2020-10-10T01:18:26"
+        },
+        "tags": [
+            "treatment",
+            "join",
+            "support",
+            "fund"
+        ],
+        "shipping_info": {
+            "weight": "4.23 kg",
+            "dimensions": "23.47 x 6.09 x 8.14 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "exist",
+        "category": "Sports",
+        "price": 955.47,
+        "description": "Home no type nearly area job book.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "8GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "tammy46",
+                "rating": 4,
+                "comment": "Always these report. Land reason certainly father need bed. Anything current part drive nothing."
+            },
+            {
+                "username": "gloverkathy",
+                "rating": 3,
+                "comment": "True drop save line debate big whom. Check poor degree store break air page."
+            },
+            {
+                "username": "andersontaylor",
+                "rating": 3,
+                "comment": "Serve possible surface appear science admit. Also month fact help. Seven fear grow medical modern middle rather. Tough none significant nice toward onto."
+            },
+            {
+                "username": "ryan82",
+                "rating": 3,
+                "comment": "Through before want close democratic staff wear day. Collection financial cut watch."
+            }
+        ],
+        "stock": {
+            "available": 88,
+            "location": "Warehouse B",
+            "last_restocked": "2022-08-28T06:25:25"
+        },
+        "tags": [
+            "soon"
+        ],
+        "shipping_info": {
+            "weight": "6.02 kg",
+            "dimensions": "23.41 x 12.16 x 8.09 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "data",
+        "category": "Clothing",
+        "price": 351.0,
+        "description": "Western station strategy first back.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "16GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "smithconnor",
+                "rating": 1,
+                "comment": "Congress executive rise mouth. Left say free left wrong outside American. With around six team notice nor."
+            },
+            {
+                "username": "derekcross",
+                "rating": 1,
+                "comment": "Raise bring wrong good page employee. Around explain brother director force practice ready."
+            },
+            {
+                "username": "swalters",
+                "rating": 5,
+                "comment": "Relate card call course you check support. Degree pick cost campaign later affect."
+            },
+            {
+                "username": "oburns",
+                "rating": 3,
+                "comment": "Particular tough later international above form box. Available movement use whatever popular between series reality."
+            },
+            {
+                "username": "andrea20",
+                "rating": 3,
+                "comment": "Head carry partner than. Phone add to summer cut."
+            }
+        ],
+        "stock": {
+            "available": 25,
+            "location": "Warehouse B",
+            "last_restocked": "2021-08-03T17:11:13"
+        },
+        "tags": [
+            "artist",
+            "difficult",
+            "language",
+            "total",
+            "tell"
+        ],
+        "shipping_info": {
+            "weight": "1.75 kg",
+            "dimensions": "6.63 x 23.36 x 7.17 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "either",
+        "category": "Electronics",
+        "price": 280.85,
+        "description": "Reduce production man early almost.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "16GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "randy30",
+                "rating": 4,
+                "comment": "Visit quality truth sea be health result interesting. Yes beautiful friend black. Forget ball care institution contain. Space usually make better blue see."
+            },
+            {
+                "username": "patriciascott",
+                "rating": 5,
+                "comment": "Design rest or door commercial. Phone charge prove baby purpose."
+            }
+        ],
+        "stock": {
+            "available": 32,
+            "location": "Warehouse C",
+            "last_restocked": "2022-02-08T22:21:04"
+        },
+        "tags": [
+            "success",
+            "single",
+            "result",
+            "key",
+            "matter"
+        ],
+        "shipping_info": {
+            "weight": "4.92 kg",
+            "dimensions": "21.33 x 25.07 x 3.04 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "like",
+        "category": "Electronics",
+        "price": 175.73,
+        "description": "Late laugh expert with front six suffer born.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "kayla77",
+                "rating": 1,
+                "comment": "Rather success bag result painting stay. Line example job ability."
+            },
+            {
+                "username": "anthonyayers",
+                "rating": 3,
+                "comment": "Performance specific movie. By indeed new material pretty whom citizen score. Now whatever notice."
+            },
+            {
+                "username": "znorris",
+                "rating": 4,
+                "comment": "Game change debate how. For care beyond edge chair decide program."
+            }
+        ],
+        "stock": {
+            "available": 92,
+            "location": "Warehouse C",
+            "last_restocked": "2022-11-03T06:27:13"
+        },
+        "tags": [
+            "may"
+        ],
+        "shipping_info": {
+            "weight": "0.43 kg",
+            "dimensions": "6.42 x 26.43 x 6.78 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "west",
+        "category": "Kitchen",
+        "price": 615.97,
+        "description": "Economic news look response.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "16GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "maxwellcraig",
+                "rating": 2,
+                "comment": "Not hundred believe easy once customer century. Pick government indicate him push."
+            }
+        ],
+        "stock": {
+            "available": 77,
+            "location": "Warehouse C",
+            "last_restocked": "2020-03-22T18:39:54"
+        },
+        "tags": [
+            "smile",
+            "picture",
+            "school"
+        ],
+        "shipping_info": {
+            "weight": "9.81 kg",
+            "dimensions": "21.35 x 6.91 x 7.2 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "traditional",
+        "category": "Kitchen",
+        "price": 119.5,
+        "description": "Owner wife themselves.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "16GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "27-inch 4K",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "sean64",
+                "rating": 1,
+                "comment": "Authority ever artist center. Both stop Mrs one war whom view. Majority social property every play."
+            },
+            {
+                "username": "elizabethjames",
+                "rating": 5,
+                "comment": "At require goal wish leg officer author. Provide black move hard. Stay perform it usually friend study wife. Employee production just present catch political real."
+            }
+        ],
+        "stock": {
+            "available": 80,
+            "location": "Warehouse B",
+            "last_restocked": "2021-11-06T02:20:02"
+        },
+        "tags": [
+            "doctor",
+            "score"
+        ],
+        "shipping_info": {
+            "weight": "4.58 kg",
+            "dimensions": "5.59 x 20.41 x 9.37 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "between",
+        "category": "Clothing",
+        "price": 673.14,
+        "description": "Everyone night health someone thing.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "8GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "13.3-inch Retina",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "jgardner",
+                "rating": 3,
+                "comment": "Yard amount anyone fear age. Public husband find audience probably pressure later water. Sister theory information be camera magazine."
+            },
+            {
+                "username": "jenniferrobinson",
+                "rating": 4,
+                "comment": "About fire moment national drive shake. Woman key go check sort place air spend. Myself only industry whether life training."
+            },
+            {
+                "username": "christopherwolf",
+                "rating": 5,
+                "comment": "Election really half hard current. Goal world soldier animal oil instead my million. Contain whatever society their method front finish. Finally door front order huge soon skin."
+            }
+        ],
+        "stock": {
+            "available": 62,
+            "location": "Warehouse A",
+            "last_restocked": "2022-03-17T16:31:08"
+        },
+        "tags": [
+            "top",
+            "lead",
+            "food",
+            "all"
+        ],
+        "shipping_info": {
+            "weight": "0.37 kg",
+            "dimensions": "10.15 x 23.22 x 3.49 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "site",
+        "category": "Clothing",
+        "price": 721.46,
+        "description": "Among at street expert.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "8GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "zthomas",
+                "rating": 3,
+                "comment": "Resource oil fact choice. View conference mission Mrs suffer star."
+            },
+            {
+                "username": "flane",
+                "rating": 2,
+                "comment": "Provide avoid simple nice participant table of open. College thousand major state see everybody purpose style."
+            },
+            {
+                "username": "diazchad",
+                "rating": 2,
+                "comment": "Senior field put despite. Full fill kid boy."
+            }
+        ],
+        "stock": {
+            "available": 38,
+            "location": "Warehouse C",
+            "last_restocked": "2022-10-12T16:32:38"
+        },
+        "tags": [
+            "newspaper",
+            "foot",
+            "between",
+            "six"
+        ],
+        "shipping_info": {
+            "weight": "6.99 kg",
+            "dimensions": "28.09 x 17.22 x 3.52 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "send",
+        "category": "Clothing",
+        "price": 85.24,
+        "description": "Sit meeting build military listen.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "8GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "rachel20",
+                "rating": 3,
+                "comment": "Upon note story teach. Card guess your member someone myself total finally. Between final beat of behind."
+            },
+            {
+                "username": "ricky90",
+                "rating": 4,
+                "comment": "Account floor evidence attorney third either. Support itself his set action try board."
+            },
+            {
+                "username": "khunter",
+                "rating": 2,
+                "comment": "Building western around tell game. My evidence interview large home. Score as put win thought movement."
+            }
+        ],
+        "stock": {
+            "available": 41,
+            "location": "Warehouse B",
+            "last_restocked": "2020-05-29T17:45:10"
+        },
+        "tags": [
+            "free",
+            "issue"
+        ],
+        "shipping_info": {
+            "weight": "0.39 kg",
+            "dimensions": "29.32 x 10.72 x 6.82 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "value",
+        "category": "Electronics",
+        "price": 210.7,
+        "description": "Successful which product.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "13.3-inch Retina",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "sextonjacqueline",
+                "rating": 3,
+                "comment": "That able understand she light."
+            },
+            {
+                "username": "jessegarrison",
+                "rating": 4,
+                "comment": "Might environmental leg create. Institution find seat sell summer even after. Degree size federal school."
+            },
+            {
+                "username": "jamiejohnson",
+                "rating": 3,
+                "comment": "Care child defense fish. Drive computer note mention. Bring turn we little theory. Civil energy hope lay line card."
+            },
+            {
+                "username": "ann72",
+                "rating": 5,
+                "comment": "Recently management truth word main."
+            }
+        ],
+        "stock": {
+            "available": 77,
+            "location": "Warehouse B",
+            "last_restocked": "2020-07-24T13:41:35"
+        },
+        "tags": [
+            "recent",
+            "grow",
+            "include"
+        ],
+        "shipping_info": {
+            "weight": "6.88 kg",
+            "dimensions": "20.68 x 15.75 x 5.59 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "really",
+        "category": "Clothing",
+        "price": 457.29,
+        "description": "Class financial music form.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "8GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "13.3-inch Retina",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "uchandler",
+                "rating": 2,
+                "comment": "Majority society section some despite throw. Maintain surface point effect. By travel turn parent."
+            },
+            {
+                "username": "brocha",
+                "rating": 1,
+                "comment": "Wear section total surface. Moment join role good consumer. Democratic behind head just."
+            },
+            {
+                "username": "bernardwagner",
+                "rating": 2,
+                "comment": "Ok everybody test. Instead policy case budget. Thus message many take indeed four among."
+            }
+        ],
+        "stock": {
+            "available": 18,
+            "location": "Warehouse C",
+            "last_restocked": "2022-02-22T09:04:33"
+        },
+        "tags": [
+            "everything"
+        ],
+        "shipping_info": {
+            "weight": "7.5 kg",
+            "dimensions": "12.91 x 14.91 x 8.98 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "across",
+        "category": "Sports",
+        "price": 164.64,
+        "description": "Create where many.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "taylorjohn",
+                "rating": 5,
+                "comment": "After institution movie raise author like."
+            },
+            {
+                "username": "kristin65",
+                "rating": 3,
+                "comment": "Party challenge successful space unit cup. Forget team beautiful recently voice everybody today. First where great stage although necessary pattern."
+            },
+            {
+                "username": "joel71",
+                "rating": 5,
+                "comment": "Give since professor head ability. Majority coach issue production stay. How talk spend six democratic interest window. Month not begin position account girl."
+            }
+        ],
+        "stock": {
+            "available": 89,
+            "location": "Warehouse C",
+            "last_restocked": "2020-09-04T11:28:11"
+        },
+        "tags": [
+            "reach"
+        ],
+        "shipping_info": {
+            "weight": "3.37 kg",
+            "dimensions": "16.03 x 26.73 x 1.41 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "fight",
+        "category": "Clothing",
+        "price": 693.23,
+        "description": "Behavior at statement decision.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "16GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "tjackson",
+                "rating": 5,
+                "comment": "Contain head way environmental. Involve parent tonight hotel."
+            }
+        ],
+        "stock": {
+            "available": 38,
+            "location": "Warehouse A",
+            "last_restocked": "2020-07-31T19:38:35"
+        },
+        "tags": [
+            "foreign"
+        ],
+        "shipping_info": {
+            "weight": "1.3 kg",
+            "dimensions": "5.07 x 22.79 x 6.65 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "anyone",
+        "category": "Clothing",
+        "price": 179.81,
+        "description": "Employee course religious smile improve nothing.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "16GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "brittanyjimenez",
+                "rating": 2,
+                "comment": "Enjoy attack officer itself ten. Action door want. Century really by. Subject form practice manager place star."
+            }
+        ],
+        "stock": {
+            "available": 13,
+            "location": "Warehouse C",
+            "last_restocked": "2023-04-02T05:59:49"
+        },
+        "tags": [
+            "region",
+            "everything",
+            "difficult"
+        ],
+        "shipping_info": {
+            "weight": "1.04 kg",
+            "dimensions": "14.48 x 25.51 x 6.55 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "parent",
+        "category": "Electronics",
+        "price": 211.74,
+        "description": "Really meet option direction shake.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "efrazier",
+                "rating": 5,
+                "comment": "Technology discussion environmental real. General war with institution truth sport prepare. Build total project kind production score. Tv history phone tend life enter despite."
+            },
+            {
+                "username": "garzajoseph",
+                "rating": 2,
+                "comment": "Plan receive seem fact city field upon. Particular themselves chair table away success real. One price fish professional attorney note."
+            },
+            {
+                "username": "seanhampton",
+                "rating": 4,
+                "comment": "Sea choice chair consider hit particularly one. Artist put food. Yes reduce accept rise."
+            }
+        ],
+        "stock": {
+            "available": 36,
+            "location": "Warehouse A",
+            "last_restocked": "2023-06-03T08:51:52"
+        },
+        "tags": [
+            "hundred"
+        ],
+        "shipping_info": {
+            "weight": "7.23 kg",
+            "dimensions": "8.19 x 5.67 x 4.83 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "film",
+        "category": "Clothing",
+        "price": 210.01,
+        "description": "Instead alone sit senior fill recognize.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "eadams",
+                "rating": 5,
+                "comment": "Upon until final star task fund value. Wide able where find respond."
+            },
+            {
+                "username": "donna06",
+                "rating": 3,
+                "comment": "Paper garden interest church course network sister author. Wide feel foot spring break value. Through health party."
+            },
+            {
+                "username": "kelseybray",
+                "rating": 2,
+                "comment": "Democrat team region land. Fact example news community radio happen. Assume success born eight unit show threat."
+            },
+            {
+                "username": "crystaldavis",
+                "rating": 1,
+                "comment": "Control feel since myself. Same to Mrs. Hot necessary Republican three man no."
+            },
+            {
+                "username": "javier91",
+                "rating": 1,
+                "comment": "Change second stop resource suddenly write company. Child teacher traditional respond."
+            }
+        ],
+        "stock": {
+            "available": 49,
+            "location": "Warehouse B",
+            "last_restocked": "2022-09-13T06:27:24"
+        },
+        "tags": [
+            "because",
+            "future",
+            "number"
+        ],
+        "shipping_info": {
+            "weight": "1.17 kg",
+            "dimensions": "10.99 x 29.72 x 5.99 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "strong",
+        "category": "Sports",
+        "price": 840.95,
+        "description": "Treatment head human care and international.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "martinsean",
+                "rating": 3,
+                "comment": "Letter fine rather section loss require area. Seven none anyone pick hear play agency although."
+            }
+        ],
+        "stock": {
+            "available": 94,
+            "location": "Warehouse A",
+            "last_restocked": "2021-05-08T00:51:21"
+        },
+        "tags": [
+            "opportunity",
+            "tend",
+            "eye"
+        ],
+        "shipping_info": {
+            "weight": "0.16 kg",
+            "dimensions": "11.47 x 14.56 x 4.35 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "year",
+        "category": "Kitchen",
+        "price": 765.7,
+        "description": "Old authority mouth yes face.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "jimmy70",
+                "rating": 3,
+                "comment": "Lead future door participant area first ago. National community successful. Technology gun person reveal way peace. Save network their realize reflect."
+            },
+            {
+                "username": "brandon48",
+                "rating": 1,
+                "comment": "Under rather threat place. Morning stand voice woman. Station religious size majority memory professional sign. Themselves growth involve despite almost establish if."
+            },
+            {
+                "username": "jenniferryan",
+                "rating": 2,
+                "comment": "More remember standard section. Dream them wear nothing analysis. Wrong country decade front."
+            }
+        ],
+        "stock": {
+            "available": 76,
+            "location": "Warehouse A",
+            "last_restocked": "2022-07-16T18:00:20"
+        },
+        "tags": [
+            "once",
+            "cup",
+            "mother"
+        ],
+        "shipping_info": {
+            "weight": "0.97 kg",
+            "dimensions": "29.21 x 19.19 x 7.85 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "mission",
+        "category": "Sports",
+        "price": 38.91,
+        "description": "With factor avoid why surface amount meeting.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "mckenzie13",
+                "rating": 2,
+                "comment": "Answer type ask. Style politics this good with. Hundred glass usually full choose condition threat."
+            },
+            {
+                "username": "kimberly33",
+                "rating": 5,
+                "comment": "Trial heavy experience plan woman find life. Face everybody animal how produce month street movie. Claim mind month area few tend."
+            },
+            {
+                "username": "ryanandrea",
+                "rating": 1,
+                "comment": "Front at bar set myself. Line firm hour between. Reach forget say manager cup prevent."
+            }
+        ],
+        "stock": {
+            "available": 81,
+            "location": "Warehouse C",
+            "last_restocked": "2023-07-15T03:59:48"
+        },
+        "tags": [
+            "peace",
+            "market",
+            "country",
+            "produce"
+        ],
+        "shipping_info": {
+            "weight": "4.18 kg",
+            "dimensions": "5.21 x 19.63 x 4.26 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "industry",
+        "category": "Kitchen",
+        "price": 147.59,
+        "description": "Performance bad mission current.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "ywang",
+                "rating": 3,
+                "comment": "Commercial be office. Born base edge."
+            },
+            {
+                "username": "harringtonmichelle",
+                "rating": 1,
+                "comment": "Military contain trial focus may heart."
+            },
+            {
+                "username": "ofitzgerald",
+                "rating": 3,
+                "comment": "Huge national impact after. Life government whatever control fish possible."
+            },
+            {
+                "username": "angela65",
+                "rating": 5,
+                "comment": "Cup fill ok no major. Before play hard. Lay kid section only."
+            },
+            {
+                "username": "brownaaron",
+                "rating": 5,
+                "comment": "Occur but candidate product no unit agreement. Ground indicate reason last late. System effect cost down situation."
+            }
+        ],
+        "stock": {
+            "available": 90,
+            "location": "Warehouse B",
+            "last_restocked": "2023-03-24T19:52:30"
+        },
+        "tags": [
+            "fear",
+            "skill",
+            "run"
+        ],
+        "shipping_info": {
+            "weight": "3.64 kg",
+            "dimensions": "21.59 x 27.48 x 7.66 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "really",
+        "category": "Sports",
+        "price": 131.82,
+        "description": "Control force also support source area.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "8GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "lowejason",
+                "rating": 2,
+                "comment": "Back agreement possible design federal society help. Including rule assume behavior color. Size step see sometimes."
+            }
+        ],
+        "stock": {
+            "available": 88,
+            "location": "Warehouse A",
+            "last_restocked": "2021-09-19T14:30:37"
+        },
+        "tags": [
+            "range",
+            "then",
+            "physical",
+            "information"
+        ],
+        "shipping_info": {
+            "weight": "9.84 kg",
+            "dimensions": "10.22 x 15.76 x 1.55 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "compare",
+        "category": "Sports",
+        "price": 559.74,
+        "description": "Approach knowledge plant thus performance foot happen.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "13.3-inch Retina",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "emitchell",
+                "rating": 4,
+                "comment": "Minute however size young. Society strategy follow experience blue sort allow meeting. Cause table room food say perform site beat."
+            },
+            {
+                "username": "lcrawford",
+                "rating": 1,
+                "comment": "Food himself throughout analysis high tax phone nice. Research learn spring believe station us anyone."
+            },
+            {
+                "username": "uyork",
+                "rating": 5,
+                "comment": "Music seat its six question. Purpose present recognize require green recognize cut usually. House laugh style vote lay success."
+            },
+            {
+                "username": "eduardo29",
+                "rating": 5,
+                "comment": "Prepare never address only place rate fear think. Investment while state responsibility realize. Modern coach simply friend."
+            },
+            {
+                "username": "rosarioelizabeth",
+                "rating": 1,
+                "comment": "Kid hotel use pressure government rest. Recognize top many teach adult test you contain. Skin pay age can establish development though."
+            }
+        ],
+        "stock": {
+            "available": 91,
+            "location": "Warehouse B",
+            "last_restocked": "2022-01-08T06:49:26"
+        },
+        "tags": [
+            "activity",
+            "have"
+        ],
+        "shipping_info": {
+            "weight": "6.63 kg",
+            "dimensions": "20.32 x 13.35 x 9.32 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "both",
+        "category": "Electronics",
+        "price": 300.1,
+        "description": "Church age truth fish charge side usually.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "8GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "albert52",
+                "rating": 3,
+                "comment": "Resource pass off including present. Ten goal yes process Democrat. Simply order serious anyone word local toward home."
+            }
+        ],
+        "stock": {
+            "available": 1,
+            "location": "Warehouse A",
+            "last_restocked": "2021-07-19T13:27:46"
+        },
+        "tags": [
+            "pick",
+            "interview",
+            "hundred"
+        ],
+        "shipping_info": {
+            "weight": "2.09 kg",
+            "dimensions": "23.68 x 29.66 x 5.58 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "suggest",
+        "category": "Kitchen",
+        "price": 981.37,
+        "description": "Prepare general professional myself mother specific so officer.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "jocelyncole",
+                "rating": 2,
+                "comment": "Pull citizen staff more run order. West unit summer sister cup financial. Suddenly service use main."
+            },
+            {
+                "username": "ayalajoanna",
+                "rating": 2,
+                "comment": "Receive affect enjoy reach be arrive national. Million term prepare little pass leg range arm."
+            },
+            {
+                "username": "lmarsh",
+                "rating": 5,
+                "comment": "Across sport day wall floor yard. Your color between key factor up party public. Drive benefit outside begin reveal."
+            },
+            {
+                "username": "smithjill",
+                "rating": 2,
+                "comment": "Apply continue point office hit close."
+            }
+        ],
+        "stock": {
+            "available": 70,
+            "location": "Warehouse A",
+            "last_restocked": "2022-09-06T20:50:24"
+        },
+        "tags": [
+            "modern",
+            "my"
+        ],
+        "shipping_info": {
+            "weight": "8.05 kg",
+            "dimensions": "20.54 x 7.94 x 3.75 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "action",
+        "category": "Kitchen",
+        "price": 639.39,
+        "description": "According gun rather base sound.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "16GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "franklinalbert",
+                "rating": 2,
+                "comment": "Name real threat note yes word. Avoid bed service level source month."
+            }
+        ],
+        "stock": {
+            "available": 0,
+            "location": "Warehouse B",
+            "last_restocked": "2022-05-01T19:00:39"
+        },
+        "tags": [
+            "spring",
+            "wife",
+            "heart",
+            "appear",
+            "toward"
+        ],
+        "shipping_info": {
+            "weight": "8.54 kg",
+            "dimensions": "6.59 x 27.75 x 4.16 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "this",
+        "category": "Sports",
+        "price": 744.84,
+        "description": "Democrat rather single pattern.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "8GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "27-inch 4K",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "annamiller",
+                "rating": 1,
+                "comment": "Fall sign late beyond speak nor positive. Write weight someone machine author item pattern. Impact site practice measure think. Picture crime professor citizen player."
+            },
+            {
+                "username": "garrettjoseph",
+                "rating": 3,
+                "comment": "Soldier network employee bank. House more across teacher. Education north nice information resource security remember ok."
+            },
+            {
+                "username": "darius18",
+                "rating": 5,
+                "comment": "Know defense government stuff. Police mother person old remain. Sea response know eye."
+            }
+        ],
+        "stock": {
+            "available": 43,
+            "location": "Warehouse C",
+            "last_restocked": "2023-06-05T23:22:38"
+        },
+        "tags": [
+            "land",
+            "sport",
+            "here"
+        ],
+        "shipping_info": {
+            "weight": "3.24 kg",
+            "dimensions": "27.1 x 16.32 x 2.1 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "president",
+        "category": "Kitchen",
+        "price": 770.76,
+        "description": "Budget him under until serve example.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "16GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "bwatkins",
+                "rating": 5,
+                "comment": "Ball return production he prove sister. Unit base after."
+            },
+            {
+                "username": "mikezimmerman",
+                "rating": 2,
+                "comment": "Million finish affect discuss allow recognize. Treat decision protect."
+            }
+        ],
+        "stock": {
+            "available": 84,
+            "location": "Warehouse A",
+            "last_restocked": "2021-05-01T00:05:40"
+        },
+        "tags": [
+            "need",
+            "herself"
+        ],
+        "shipping_info": {
+            "weight": "1.22 kg",
+            "dimensions": "29.79 x 6.89 x 5.11 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "parent",
+        "category": "Sports",
+        "price": 292.07,
+        "description": "Media democratic form campaign cover include.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "8GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "michael26",
+                "rating": 1,
+                "comment": "Natural information again market. Degree article professional commercial hit. Sit test throw test."
+            },
+            {
+                "username": "nicholasmartinez",
+                "rating": 5,
+                "comment": "Mr general kid both instead. Tv house avoid his."
+            },
+            {
+                "username": "alexandrafrench",
+                "rating": 4,
+                "comment": "Soldier approach but southern after. Myself throughout white bill fact impact reveal under."
+            }
+        ],
+        "stock": {
+            "available": 88,
+            "location": "Warehouse B",
+            "last_restocked": "2023-06-23T02:39:31"
+        },
+        "tags": [
+            "respond",
+            "run",
+            "available"
+        ],
+        "shipping_info": {
+            "weight": "2.4 kg",
+            "dimensions": "27.32 x 23.52 x 9.9 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "six",
+        "category": "Sports",
+        "price": 195.7,
+        "description": "Us whose hope and seek he still.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "xmcgrath",
+                "rating": 4,
+                "comment": "Control billion until question lawyer part foot more. Fly reason guy decade though message. Both investment indicate pass bag."
+            },
+            {
+                "username": "wilsonjoel",
+                "rating": 3,
+                "comment": "Manager son police without garden."
+            },
+            {
+                "username": "dorothyreyes",
+                "rating": 2,
+                "comment": "Walk yes region religious impact special. Evidence bring mean issue everybody about. Write offer both happen bank radio worry."
+            }
+        ],
+        "stock": {
+            "available": 39,
+            "location": "Warehouse C",
+            "last_restocked": "2021-02-26T21:15:25"
+        },
+        "tags": [
+            "exist",
+            "cover",
+            "section",
+            "other",
+            "without"
+        ],
+        "shipping_info": {
+            "weight": "8.8 kg",
+            "dimensions": "12.55 x 22.1 x 3.99 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "spend",
+        "category": "Kitchen",
+        "price": 693.85,
+        "description": "Say wrong make identify position health.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "harrisjessica",
+                "rating": 1,
+                "comment": "Expert think change able. Other capital pattern common west idea early respond. Executive ability sea hotel air deal. Need physical food when effect grow accept."
+            },
+            {
+                "username": "marythomas",
+                "rating": 5,
+                "comment": "Sell chair board show develop. Race minute must."
+            }
+        ],
+        "stock": {
+            "available": 34,
+            "location": "Warehouse B",
+            "last_restocked": "2021-02-06T13:03:05"
+        },
+        "tags": [
+            "rock",
+            "back",
+            "thousand"
+        ],
+        "shipping_info": {
+            "weight": "7.78 kg",
+            "dimensions": "16.98 x 12.5 x 8.5 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "woman",
+        "category": "Kitchen",
+        "price": 515.26,
+        "description": "Color on religious a.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "16GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "jopoole",
+                "rating": 5,
+                "comment": "Development view drop night here. Agree own image painting sing perform."
+            },
+            {
+                "username": "hinesamy",
+                "rating": 1,
+                "comment": "Strategy out significant power gun future. Able according young medical. Republican create medical manage."
+            }
+        ],
+        "stock": {
+            "available": 92,
+            "location": "Warehouse A",
+            "last_restocked": "2023-04-02T06:35:41"
+        },
+        "tags": [
+            "where",
+            "man",
+            "me",
+            "deep"
+        ],
+        "shipping_info": {
+            "weight": "2.73 kg",
+            "dimensions": "20.61 x 7.88 x 7.22 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "baby",
+        "category": "Electronics",
+        "price": 522.9,
+        "description": "Everybody single join above college physical.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "hmurray",
+                "rating": 2,
+                "comment": "Himself deep without our mean goal between occur. Region the major only majority early. Sell opportunity collection bill box career."
+            },
+            {
+                "username": "sylvia16",
+                "rating": 2,
+                "comment": "These ability name. Hold get family. Finally style possible tend memory site game."
+            },
+            {
+                "username": "mary53",
+                "rating": 5,
+                "comment": "Will form say suddenly majority should. Defense board store week most really notice."
+            },
+            {
+                "username": "olsonbrian",
+                "rating": 3,
+                "comment": "Standard too arm girl attention result drop region. American training soldier family why."
+            }
+        ],
+        "stock": {
+            "available": 75,
+            "location": "Warehouse B",
+            "last_restocked": "2021-12-29T12:16:02"
+        },
+        "tags": [
+            "nature",
+            "southern",
+            "including",
+            "community"
+        ],
+        "shipping_info": {
+            "weight": "9.41 kg",
+            "dimensions": "11.1 x 24.8 x 7.26 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "than",
+        "category": "Sports",
+        "price": 89.44,
+        "description": "Body girl perform.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "16GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "nicholasjackson",
+                "rating": 2,
+                "comment": "Ability once live hotel everybody. Father call career government beyond Congress admit."
+            },
+            {
+                "username": "ogreen",
+                "rating": 5,
+                "comment": "Station girl magazine prepare. Couple just here century. Reach have black indeed."
+            },
+            {
+                "username": "dustinsalazar",
+                "rating": 5,
+                "comment": "Open job second discuss bar professional firm. Better ten away participant drug key. Recent parent address term pressure me."
+            }
+        ],
+        "stock": {
+            "available": 64,
+            "location": "Warehouse A",
+            "last_restocked": "2022-02-09T12:55:40"
+        },
+        "tags": [
+            "eye",
+            "itself"
+        ],
+        "shipping_info": {
+            "weight": "8.97 kg",
+            "dimensions": "17.03 x 26.9 x 6.25 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "than",
+        "category": "Clothing",
+        "price": 417.02,
+        "description": "Top decision try type decade.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "nicolemurray",
+                "rating": 1,
+                "comment": "Film south former dinner since usually. Why institution mission list break machine wait. Teach return left decade lose laugh phone. Think design figure test staff up."
+            },
+            {
+                "username": "amber60",
+                "rating": 4,
+                "comment": "Note manage generation them. Boy beyond join smile surface. A idea moment five worker. Night pick reach story drop choice series interview."
+            },
+            {
+                "username": "elizabeth78",
+                "rating": 5,
+                "comment": "Agent interesting billion include star to ready. View wonder middle section together sister institution impact."
+            },
+            {
+                "username": "derekhamilton",
+                "rating": 2,
+                "comment": "Ever door research may range popular. Past deal board cut recently main."
+            },
+            {
+                "username": "jasonsanders",
+                "rating": 1,
+                "comment": "Night somebody force light book than some. Understand positive despite while statement newspaper early."
+            }
+        ],
+        "stock": {
+            "available": 94,
+            "location": "Warehouse C",
+            "last_restocked": "2023-03-27T08:43:16"
+        },
+        "tags": [
+            "television",
+            "reflect",
+            "house",
+            "drop"
+        ],
+        "shipping_info": {
+            "weight": "9.11 kg",
+            "dimensions": "20.36 x 6.3 x 2.02 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "whole",
+        "category": "Clothing",
+        "price": 778.28,
+        "description": "Grow improve lawyer note artist without forward land.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "16GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "danielhernandez",
+                "rating": 5,
+                "comment": "Trade bar finally situation. City dinner most Republican ball business choice. Reach meet save who probably at run."
+            },
+            {
+                "username": "alvarezgeorge",
+                "rating": 4,
+                "comment": "Morning stay water fact kitchen evidence. Teach either see either."
+            },
+            {
+                "username": "tiffanysmith",
+                "rating": 3,
+                "comment": "Sell word can source. Put so tell threat million perhaps throw. Former face course situation stand."
+            },
+            {
+                "username": "gmorales",
+                "rating": 5,
+                "comment": "Customer rise able like. Mouth modern himself very right figure. Heavy along lose growth stay."
+            }
+        ],
+        "stock": {
+            "available": 85,
+            "location": "Warehouse B",
+            "last_restocked": "2020-01-20T16:54:04"
+        },
+        "tags": [
+            "cold",
+            "occur",
+            "choose",
+            "nice"
+        ],
+        "shipping_info": {
+            "weight": "9.81 kg",
+            "dimensions": "20.42 x 19.04 x 2.8 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "establish",
+        "category": "Kitchen",
+        "price": 810.33,
+        "description": "Society future marriage boy sound big hope.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "16GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "lamberttamara",
+                "rating": 5,
+                "comment": "Miss where prevent you. Tell force hard their home."
+            },
+            {
+                "username": "marie57",
+                "rating": 1,
+                "comment": "Hundred ask debate that street number first. Song else agency. Television spring series young eye focus."
+            },
+            {
+                "username": "jeffrey32",
+                "rating": 5,
+                "comment": "Far analysis by even address however south. Staff radio important begin beautiful. Company rate world wall manager hold."
+            },
+            {
+                "username": "victoria80",
+                "rating": 4,
+                "comment": "Stand check to become. Glass form player scientist animal factor cup. Data write protect physical somebody peace best."
+            },
+            {
+                "username": "uhall",
+                "rating": 3,
+                "comment": "Forward parent reality share believe thing. Amount quite knowledge rich forget weight."
+            }
+        ],
+        "stock": {
+            "available": 23,
+            "location": "Warehouse A",
+            "last_restocked": "2021-06-30T02:56:41"
+        },
+        "tags": [
+            "once",
+            "memory",
+            "school",
+            "include"
+        ],
+        "shipping_info": {
+            "weight": "4.34 kg",
+            "dimensions": "10.27 x 24.96 x 9.47 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "standard",
+        "category": "Sports",
+        "price": 728.74,
+        "description": "Truth wait nearly deal.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "pamelajenkins",
+                "rating": 2,
+                "comment": "Several item want attorney policy. Throw could soldier eat consider. Newspaper then put course agency girl."
+            },
+            {
+                "username": "andrew91",
+                "rating": 2,
+                "comment": "Arm team maybe billion stop. Property lot yes."
+            }
+        ],
+        "stock": {
+            "available": 56,
+            "location": "Warehouse C",
+            "last_restocked": "2023-04-23T20:20:14"
+        },
+        "tags": [
+            "either",
+            "with",
+            "modern",
+            "lose",
+            "answer"
+        ],
+        "shipping_info": {
+            "weight": "7.15 kg",
+            "dimensions": "17.22 x 8.31 x 1.27 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "than",
+        "category": "Sports",
+        "price": 756.56,
+        "description": "Police drop letter letter great really food.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "8GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "13.3-inch Retina",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "matthew42",
+                "rating": 3,
+                "comment": "Hear western front lead maybe feeling bed. Phone say any act relate."
+            },
+            {
+                "username": "sbass",
+                "rating": 2,
+                "comment": "Entire decade learn edge bar. While several watch particular."
+            }
+        ],
+        "stock": {
+            "available": 42,
+            "location": "Warehouse A",
+            "last_restocked": "2023-03-10T07:59:42"
+        },
+        "tags": [
+            "only",
+            "message"
+        ],
+        "shipping_info": {
+            "weight": "9.1 kg",
+            "dimensions": "25.16 x 22.31 x 6.01 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "difference",
+        "category": "Kitchen",
+        "price": 823.63,
+        "description": "Treatment step trouble test affect.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "daltondaniel",
+                "rating": 3,
+                "comment": "Rich play along PM already question wear. Candidate scientist entire hard."
+            },
+            {
+                "username": "gabriel47",
+                "rating": 2,
+                "comment": "Debate better nature similar newspaper. Day consumer office lead stop bank speak."
+            },
+            {
+                "username": "ericsawyer",
+                "rating": 1,
+                "comment": "Any issue see responsibility itself face town. Kitchen raise laugh artist. Minute modern own somebody kitchen across teacher."
+            }
+        ],
+        "stock": {
+            "available": 12,
+            "location": "Warehouse C",
+            "last_restocked": "2020-09-21T06:05:24"
+        },
+        "tags": [
+            "within",
+            "care",
+            "buy",
+            "staff"
+        ],
+        "shipping_info": {
+            "weight": "4.06 kg",
+            "dimensions": "11.43 x 19.8 x 4.87 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "fund",
+        "category": "Electronics",
+        "price": 740.59,
+        "description": "Small hair prepare character wind chance.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "8GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "27-inch 4K",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "ycook",
+                "rating": 5,
+                "comment": "Discussion size tree attorney single field. Blue clear drive development enjoy television blood. Born air summer."
+            },
+            {
+                "username": "forbesjames",
+                "rating": 5,
+                "comment": "Answer out down pattern support cell. No whatever read either. Hear camera top report model color practice."
+            },
+            {
+                "username": "shawheather",
+                "rating": 2,
+                "comment": "Field Mr same example. Whatever clearly with. Your physical increase collection. Myself very wonder performance next provide age."
+            },
+            {
+                "username": "knightjoseph",
+                "rating": 5,
+                "comment": "Day far probably drop. Change expect sit scientist rich their sign. Travel civil realize always speech outside."
+            }
+        ],
+        "stock": {
+            "available": 57,
+            "location": "Warehouse A",
+            "last_restocked": "2020-09-28T20:00:23"
+        },
+        "tags": [
+            "quite",
+            "learn"
+        ],
+        "shipping_info": {
+            "weight": "6.45 kg",
+            "dimensions": "8.83 x 24.67 x 5.74 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "order",
+        "category": "Kitchen",
+        "price": 564.55,
+        "description": "Visit company catch bill blood.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "8GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "13.3-inch Retina",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "oscott",
+                "rating": 4,
+                "comment": "Actually apply help first risk. Because performance choose. Dream including relationship on recognize."
+            },
+            {
+                "username": "lmack",
+                "rating": 3,
+                "comment": "Serve yet question admit area. Student majority system build party."
+            },
+            {
+                "username": "hernandezkenneth",
+                "rating": 2,
+                "comment": "Down free its. Her all develop small thank cause."
+            }
+        ],
+        "stock": {
+            "available": 12,
+            "location": "Warehouse B",
+            "last_restocked": "2022-11-20T22:02:05"
+        },
+        "tags": [
+            "what",
+            "realize",
+            "leader"
+        ],
+        "shipping_info": {
+            "weight": "8.26 kg",
+            "dimensions": "16.01 x 24.45 x 6.24 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "stop",
+        "category": "Sports",
+        "price": 621.95,
+        "description": "He natural decade case old respond.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "8GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "kquinn",
+                "rating": 3,
+                "comment": "What office thousand. Interesting example second thing chance."
+            },
+            {
+                "username": "matthewmccullough",
+                "rating": 1,
+                "comment": "Own myself contain of similar worker table."
+            }
+        ],
+        "stock": {
+            "available": 12,
+            "location": "Warehouse A",
+            "last_restocked": "2023-03-18T13:44:51"
+        },
+        "tags": [
+            "current",
+            "data",
+            "care"
+        ],
+        "shipping_info": {
+            "weight": "7.93 kg",
+            "dimensions": "5.43 x 24.91 x 5.11 inches",
+            "shipping_available": false
+        }
+    },
+    {
+        "product_name": "plan",
+        "category": "Electronics",
+        "price": 818.19,
+        "description": "Institution teach bad film send avoid.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "16GB DDR4 RAM",
+            "storage": "256GB SSD",
+            "display": "13.3-inch Retina",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "barnesemma",
+                "rating": 2,
+                "comment": "By very heart dog style couple. Act might bank hand."
+            },
+            {
+                "username": "ischmidt",
+                "rating": 2,
+                "comment": "Often western court country admit family debate resource. Kid economy should."
+            },
+            {
+                "username": "kathleenrichardson",
+                "rating": 3,
+                "comment": "Set box should. Art admit wide whose. May style here."
+            },
+            {
+                "username": "vrichardson",
+                "rating": 5,
+                "comment": "Real south federal like arm kitchen. Film region activity."
+            }
+        ],
+        "stock": {
+            "available": 24,
+            "location": "Warehouse C",
+            "last_restocked": "2021-09-08T14:09:16"
+        },
+        "tags": [
+            "tell"
+        ],
+        "shipping_info": {
+            "weight": "0.42 kg",
+            "dimensions": "13.86 x 24.59 x 7.79 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "bill",
+        "category": "Kitchen",
+        "price": 843.9,
+        "description": "Whether special go forget standard time risk dog.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "heather73",
+                "rating": 2,
+                "comment": "On mention office whom."
+            },
+            {
+                "username": "brendapaul",
+                "rating": 2,
+                "comment": "Media pay rate level wish agency country. Enjoy house response politics coach discover make. Really role since within movement list production. Just impact seek top."
+            }
+        ],
+        "stock": {
+            "available": 63,
+            "location": "Warehouse B",
+            "last_restocked": "2021-11-22T17:33:33"
+        },
+        "tags": [
+            "dinner",
+            "your",
+            "he"
+        ],
+        "shipping_info": {
+            "weight": "4.86 kg",
+            "dimensions": "11.84 x 9.19 x 6.64 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "six",
+        "category": "Sports",
+        "price": 659.55,
+        "description": "Politics image difference recently share cost of.",
+        "specifications": {
+            "processor": "AMD Ryzen 9",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "27-inch 4K",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "mccallcollin",
+                "rating": 2,
+                "comment": "Pull somebody minute believe star. Unit threat late time attorney product table effort."
+            },
+            {
+                "username": "edwin08",
+                "rating": 3,
+                "comment": "Message catch score ever line economic information. Should design full popular serve Republican. Response reason she lawyer and media. Bad arrive home think on too trial build."
+            },
+            {
+                "username": "nelsonkevin",
+                "rating": 2,
+                "comment": "Mouth during east next best movie. Attorney allow Congress country city."
+            }
+        ],
+        "stock": {
+            "available": 43,
+            "location": "Warehouse C",
+            "last_restocked": "2022-03-12T18:03:25"
+        },
+        "tags": [
+            "car",
+            "effort",
+            "realize",
+            "possible"
+        ],
+        "shipping_info": {
+            "weight": "7.66 kg",
+            "dimensions": "27.21 x 8.27 x 3.74 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "season",
+        "category": "Kitchen",
+        "price": 116.07,
+        "description": "Subject movement however research building.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "memory": "8GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "27-inch 4K",
+            "graphics": "AMD Radeon RX 5700"
+        },
+        "reviews": [
+            {
+                "username": "xwilliams",
+                "rating": 4,
+                "comment": "Easy event action improve case between play heart. Whatever skill evening."
+            },
+            {
+                "username": "simmonsjodi",
+                "rating": 1,
+                "comment": "Career woman than reduce right. Whom economy sing PM throughout institution us."
+            },
+            {
+                "username": "esimmons",
+                "rating": 5,
+                "comment": "Project against single bring popular low. Walk stay type. Matter brother play forward news prevent simple actually."
+            },
+            {
+                "username": "wrightjoseph",
+                "rating": 1,
+                "comment": "Drug east husband energy five finish. Defense factor case others building media write. Nice parent yes book adult program. Foot section that top."
+            }
+        ],
+        "stock": {
+            "available": 78,
+            "location": "Warehouse C",
+            "last_restocked": "2021-06-24T01:22:49"
+        },
+        "tags": [
+            "continue",
+            "both",
+            "government",
+            "as",
+            "sit"
+        ],
+        "shipping_info": {
+            "weight": "3.51 kg",
+            "dimensions": "7.01 x 9.19 x 5.17 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "seek",
+        "category": "Electronics",
+        "price": 476.81,
+        "description": "She sister real card.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "1TB HDD",
+            "display": "27-inch 4K",
+            "graphics": "Intel Iris Xe"
+        },
+        "reviews": [
+            {
+                "username": "perezmichelle",
+                "rating": 5,
+                "comment": "Before painting paper. Very allow artist newspaper lawyer surface. Experience final audience company officer."
+            }
+        ],
+        "stock": {
+            "available": 67,
+            "location": "Warehouse B",
+            "last_restocked": "2020-09-25T10:29:39"
+        },
+        "tags": [
+            "forward",
+            "they"
+        ],
+        "shipping_info": {
+            "weight": "6.81 kg",
+            "dimensions": "21.35 x 29.98 x 9.49 inches",
+            "shipping_available": true
+        }
+    },
+    {
+        "product_name": "note",
+        "category": "Clothing",
+        "price": 599.13,
+        "description": "Hard nothing sport market.",
+        "specifications": {
+            "processor": "Apple M1",
+            "memory": "32GB DDR4 RAM",
+            "storage": "512GB SSD",
+            "display": "15.6-inch Full HD",
+            "graphics": "NVIDIA GeForce GTX 1650"
+        },
+        "reviews": [
+            {
+                "username": "ryancolon",
+                "rating": 3,
+                "comment": "Lay week discussion though half follow bar. Accept Congress understand prevent lose rich. House outside size blue over determine."
+            },
+            {
+                "username": "mirandaedward",
+                "rating": 4,
+                "comment": "Religious say most service reduce sell. Month send something building hit color candidate. Trial million medical movement such person road simple."
+            },
+            {
+                "username": "james02",
+                "rating": 4,
+                "comment": "Argue significant world bill employee. Customer professional of statement lot air environmental. Throw man try catch account ability hold."
+            }
+        ],
+        "stock": {
+            "available": 80,
+            "location": "Warehouse B",
+            "last_restocked": "2022-09-10T19:33:14"
+        },
+        "tags": [
+            "air"
+        ],
+        "shipping_info": {
+            "weight": "8.98 kg",
+            "dimensions": "9.04 x 8.36 x 4.57 inches",
+            "shipping_available": false
+        }
+    }
+]
